@@ -21,12 +21,13 @@ This is a terminal-based AI chatbot written in Python. It uses predefined answer
 ## 📦 Requirements
 
 Install dependencies:
+```
 
-```bash
 pip install -r requirements.txt
 
 Libraries Used
-requests – for API calls
+
+requests – for API calls-
 
 pyfiglet – for ASCII art
 
@@ -34,7 +35,14 @@ itertools – for loading animation
 
 threading – for animation thread
 
+
 sys – for console output.
+```
+
+
+
+
+![Screenshot 2025-05-20 193139](https://github.com/user-attachments/assets/590f2512-6f7a-488a-b568-069897b54af9)
 
 
 
